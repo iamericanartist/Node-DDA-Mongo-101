@@ -1,0 +1,22 @@
+{
+  "name": "node-dda-mongo-101",
+  "version": "1.0.0",
+  "description": "Node Database Driven Application / MongoDB / Mongo101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamericanartist/Node-DDA-Mongo-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamericanartist/Node-DDA-Mongo-101/issues"
+  },
+  "homepage": "https://github.com/iamericanartist/Node-DDA-Mongo-101#readme",
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
+}
